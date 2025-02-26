@@ -1,4 +1,4 @@
-# SReminder Bot
+# Reminder Bot
 
 **Project Description**
 This is a simple Python script that sends automated reminders using PyAutoGUI. The script continuously types and sends reminders at set intervals, ensuring you stay on track with important tasks such as drinking water, taking medicine, and walking your dog.
